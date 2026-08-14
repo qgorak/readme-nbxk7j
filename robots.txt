@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qgorak.github.io/readme-nbxk7j/sitemap.xml
